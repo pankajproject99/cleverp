@@ -10,8 +10,11 @@ h1 a:hover{
     color: orange;
 }
 
-#mate-in-one {
+.chessboard {
     width: 300px;
     border-radius: 30px;
+}
+
+.mate-in-one {
     box-shadow: 20px 30px orange;
 }
