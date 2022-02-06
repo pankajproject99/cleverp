@@ -5,3 +5,7 @@ color: green;
 h1 a {
     color: rgb(92, 19, 19);
 }
+
+h1 a:hover{
+    color: orange;
+}
